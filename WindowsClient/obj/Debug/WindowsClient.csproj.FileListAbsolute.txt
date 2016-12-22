@@ -1,0 +1,15 @@
+D:\Visual Studio 2015\Projects\WebService\WindowsClient\bin\Debug\ApplicationInsights.config
+D:\Visual Studio 2015\Projects\WebService\WindowsClient\bin\Debug\WindowsClient.exe.config
+D:\Visual Studio 2015\Projects\WebService\WindowsClient\bin\Debug\WindowsClient.exe
+D:\Visual Studio 2015\Projects\WebService\WindowsClient\bin\Debug\WindowsClient.pdb
+D:\Visual Studio 2015\Projects\WebService\WindowsClient\bin\Debug\WebService.dll
+D:\Visual Studio 2015\Projects\WebService\WindowsClient\bin\Debug\WebService.pdb
+D:\Visual Studio 2015\Projects\WebService\WindowsClient\obj\Debug\WindowsClient.csprojResolveAssemblyReference.cache
+D:\Visual Studio 2015\Projects\WebService\WindowsClient\obj\Debug\WindowsClient.MainForm.resources
+D:\Visual Studio 2015\Projects\WebService\WindowsClient\obj\Debug\WindowsClient.Properties.Resources.resources
+D:\Visual Studio 2015\Projects\WebService\WindowsClient\obj\Debug\WindowsClient.csproj.GenerateResource.Cache
+D:\Visual Studio 2015\Projects\WebService\WindowsClient\obj\Debug\WindowsClient.exe
+D:\Visual Studio 2015\Projects\WebService\WindowsClient\obj\Debug\WindowsClient.pdb
+D:\Visual Studio 2015\Projects\WebService\WindowsClient\bin\Debug\EntityFramework.dll
+D:\Visual Studio 2015\Projects\WebService\WindowsClient\bin\Debug\EntityFramework.xml
+D:\Visual Studio 2015\Projects\WebService\WindowsClient\obj\Debug\WindowsClient.FormAdd.resources
